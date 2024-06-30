@@ -1,0 +1,12 @@
+<foods>
+  <food>
+    <name>Корм для котят</name>
+    <animal>cat</animal>
+    <brand>Whiskas</brand>
+  </food>
+  <food>
+    <name>Корм для щенков</name>
+    <animal>dog</animal>
+    <brand>Pedigree</brand>
+  </food>
+</foods>

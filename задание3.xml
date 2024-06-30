@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order orderid="Z12345">
+  <firstname>Иван</firstname>
+  <lastname>Иванов</lastname>
+  <orderdate>2024-06-28</orderdate>
+  <deliverydate>2024-07-05</deliverydate>
+  <price>1500.50</price>
+  <boxcount>3</boxcount>
+  <mobile>+79161234567</mobile>
+</order>

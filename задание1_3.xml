@@ -1,0 +1,14 @@
+<pet_toys>
+  <toy>
+    <name>Мышка</name>
+    <animal>cat</animal>
+    <material>ткань</material>
+    <color>серая</color>
+  </toy>
+  <toy>
+    <name>Мячик</name>
+    <animal>dog</animal>
+    <material>пластик</material>
+    <color>желтый</color>
+  </toy>
+</pet_toys>

@@ -1,0 +1,17 @@
+<pets>
+  <cat>
+    <name>Мурзик</name>
+    <breed>Персидская</breed>
+    <age>4</age>
+  </cat>
+  <cat>
+    <name>Барсик</name>
+    <breed>Сиамская</breed>
+    <age>2</age>
+  </cat>
+  <cat>
+    <name>Пушок</name>
+    <breed>Мейн-кун</breed>
+    <age>3</age>
+  </cat>
+</pets>

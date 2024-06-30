@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <movie id=1>
+  <title>Игры разума</title>
+    <country>США</country>
+    < year>2001</year>
+    <genre>драма, биография, мелодрама</genre>
+    <producer>Рон Ховард</producer>
+    <Actors>Рассел Кроу, Эд Харрис, Дженнифер Коннелли</actors>
+    <comments/>
+  <movie id=2>
+      <title>Отпуск по обмену</title>
+      <country>США</country>
+      <year>2006</year>
+      <genre>мелодрама, комедия</genre>
+      <producer>Нэнси Майерс</producer>
+      <Actors>Кэмерон Диас, Кейт Уинслет, Джуд Лоу, Джек Блэк</actors>
+      </comments>
+  </movie>
+</catalog>
+
+
+1.Нет кавычек у значений атрибута id.
+2.Нет закрывающего тега </movie> для <movie id=1>.
+3.Пробел в начале тега < year> у первого фильма.
+4.Несоответствие регистра элемента <Actors> (должно быть <actors>).
+5.Закрывающий тег </comments> во втором фильме, вместо одиночного <comments/>
